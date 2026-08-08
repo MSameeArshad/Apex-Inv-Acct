@@ -1,0 +1,6 @@
+.git
+.gitignore
+README.md
+.env.example
+backend/.env.example
+frontend/.env.example
