@@ -1,4 +1,4 @@
-# Inventory & Accounts System (MERN)
+# Inventory & Accounts System By ApexSoftaitech.net.pk
 
 FMCG distributor Inventory + Accounts system. React/Vite/Tailwind frontend, Express/MongoDB backend.
 
